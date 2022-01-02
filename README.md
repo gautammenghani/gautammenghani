@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I am Gautam. I am a software engineer working on solving real problems. My interests include computers and math. 
+- 🔭 I’m currently contributing to open source software.
+- 🌱 I’m also learning about Linux kernel.
 <!--
 **gum3ng/gum3ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
