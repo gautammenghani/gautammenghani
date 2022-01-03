@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Gautam. I am a software engineer working on solving real problems. My interests include computers and math. 
+I am a software engineer working on solving real problems. My interests include computers and math. 
 - 🔭 I’m currently contributing to open source software.
 - 🌱 I’m also learning about Linux kernel.
 <!--
