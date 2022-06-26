@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am an engineer working on solving real problems. 
-- 🔭 I’m currently learning about linux kernel.
+- 🔭 I’m currently working on linux kernel.
 - 🌱 My areas of interest are: Operating systems and security
 <!--
 **gum3ng/gum3ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
