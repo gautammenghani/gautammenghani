@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an engineer working on solving real problems. I recently completed the Linux Kernel Mentorship program (summer 2022) at the the Linux foundation.
+I am an engineer working on solving real problems. I recently completed the Linux Kernel Mentorship program (summer 2022) at the Linux foundation.
 - 🔭 I’m currently working on linux kernel. My contributions so far can be found [here](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=menghani)
 - 🌱 My areas of interest are: Operating systems, Systems programming and software security
 <!--
