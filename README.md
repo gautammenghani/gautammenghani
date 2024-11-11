@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a programmer currently working as a linux kernel developer. My contributions so far can be found [here](https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/log/?qt=grep&q=menghani)
-- 🌱 My areas of interest are: Linux Kernel development and computer architecture.
+- My areas of interest are: Linux Kernel development and computer architecture.
 <!--
 **gum3ng/gum3ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
